@@ -1,7 +1,11 @@
 {
   "data": [
     "v0.2",
-    {
+    { 
+      "title": "Umfrage Auswertung Lösungen",
+      "description": "Broad Listening Analyseresultat",
+      "date": "2025-08-19T04:41:41.610Z",
+      "addOns": {},
       "topics": [
         {
           "id": "wiekanndiefdpbildunginnovationundzukunftsfhigkeitalsliberalekernanliegenbesetzen",
